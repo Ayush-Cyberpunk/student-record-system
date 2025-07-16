@@ -27,4 +27,23 @@ A simple CLI-based Python application to add, view, update, and delete student r
 
    python student_record_sqlite.py
 
+📊 Sample Database
+
+   The program auto-creates a SQLite database file: student.db
+
+   Data is stored in a table named students
+
    
+📜 License
+
+Free to use and modify for educational purposes.
+
+➡ To use:
+1. Create a file called README.md in your project folder
+2. Paste the content above into it
+3. Save and run:
+
+```bash
+git add README.md
+git commit -m "Add README file"
+git push
