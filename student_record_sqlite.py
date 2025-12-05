@@ -1,6 +1,5 @@
 import sqlite3
 
-# Initialize DB and ensure table exists
 conn = sqlite3.connect('student.db')
 c = conn.cursor()
 c.execute('''
